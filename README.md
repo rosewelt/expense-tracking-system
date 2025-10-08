@@ -1,8 +1,16 @@
 
 # 💰 Expense Management System
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Repo Size](https://img.shields.io/github/repo-size/rosewelt/expense-tracking-system)
+![Python](https://img.shields.io/badge/Python-3.13.2-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.45.0-orange?logo=streamlit)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115.12-blue?logo=fastapi)
+![Pydantic](https://img.shields.io/badge/Pydantic-2.11.3-lightgrey?logo=pydantic)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-0.34.2-purple?logo=python)
+![MySQL Connector](https://img.shields.io/badge/MySQL--Connector-9.3.0-blue?logo=mysql)
+![Pandas](https://img.shields.io/badge/Pandas-2.2.3-lightblue?logo=pandas)
+![Requests](https://img.shields.io/badge/Requests-2.32.3-red?logo=python)
+![PyTest](https://img.shields.io/badge/PyTest-8.3.5-green?logo=pytest)
+
+
 An interactive **Expense Tracking System** built with **Streamlit**, **FastAPI**, and **MySQL**.  
 This project allows users to log, categorize, and analyze their expenses in a clean and modern web interface.
 
